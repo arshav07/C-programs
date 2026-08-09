@@ -11,3 +11,4 @@ Topics Covered:
 - Structures
 - Stack
 - Sorting Algorithms
+- queue
